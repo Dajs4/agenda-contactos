@@ -53,7 +53,7 @@ agenda-contactos/
 1. **Clonar o descargar el proyecto**
    ```bash
    # Si tienes el proyecto en un repositorio
-   git clone <url-del-repositorio>
+   git clone https://github.com/Dajs4/agenda-contactos.git
    cd agenda-contactos
    ```
 
